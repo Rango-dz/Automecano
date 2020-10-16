@@ -145,11 +145,11 @@ body {
 
   @font-face{
     font-family:'auto';
-    src:url(/public/css/auto.eot?tt9lds);
-    src:url('/public/css/auto.eot?tt9lds#iefix')format('embedded-opentype'),
-    url(/public/css/auto.ttf?tt9lds)format('truetype'),
-    url(/public/css/auto.woff?tt9lds) format('woff'),
-    url('/public/image/auto.svg?tt9lds#auto')format('svg');
+    src:url(/automecano/css/auto.eot?tt9lds);
+    src:url('/automecano/css/auto.eot?tt9lds#iefix')format('embedded-opentype'),
+    url(/automecano/css/auto.ttf?tt9lds)format('truetype'),
+    url(/automecano/css/auto.woff?tt9lds) format('woff'),
+    url('/automecano/image/auto.svg?tt9lds#auto')format('svg');
     font-weight:400;
     font-style:normal;
     font-display:block
